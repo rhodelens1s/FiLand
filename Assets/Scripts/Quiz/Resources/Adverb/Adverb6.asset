@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adverb6
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: edf9a55fb17289a4d9c354de43b62285, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 64f23b0fd6ae8ce4dbb34c2cba83dff3, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: hindi pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 9923441dd657ec84bba051cd15e8df6b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 02a0498ab3ecc834ab7fa29749856a50, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 01de195a4100d6947a421b525457d00c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 537ace67bd82c3e4db5b141a2b9fb91c, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 3cd173ec2b5fede488bd46fb0faff5ef, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 27a557feece1ed84bbd55f7eab44069e, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 823f17cfc41da774090adeb4d78bce2e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e5530c9de612e784a9df96ae330b9608, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: hindi pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 68323b475e1ba414fb983698d492f510, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aead342987c0ceb4b89c01322a50d6dc, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: hindi pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 2bc69673f32356c49935b137246f0557, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 083d94a98cf87c0428151c69bee34d4d, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 2aebf4dc591f69f42aeab56e6a81b30e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4977c66f410f9e942adf6daef9db4da1, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: hindi pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 60a2d197511def344b5ca7a02689ffdd, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f4b4eef48e8f2364898e8501bb777fec, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: hindi pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 971b61da4bc0fab45b307eac74bce136, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 7b31872871fb9e44b8e4649ba38ad2e6, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - pang-abay
+    - hindi pang-abay
+    correctAns: hindi pang-abay

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun4
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: ebf9eb98e70a99949b777395b93eeb15, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: cac315fec55815043b7dd6e54cd411fc, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pantangi
+    TrueOrFalseOptions: []
+    correctAns: tahas
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 7f822c40b8c7d9548bd64d6a92294a47, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4c7df8bf4bc73524ebf4dda104eb04f4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pantangi
+    TrueOrFalseOptions: []
+    correctAns: basal
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 376fdd23cddd45543a81a05739e15dbc, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 44b19cfb6bef6e94da62705a336e4a3f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    correctAns: tama
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 768c300d5384c7147b997285580058ff, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: fd719455645cd22478d13f0fc778ea5a, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    correctAns: tama
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: bb63206157e04e649887ce61605a5c3b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 5e90687885a4eaa4eb4e79cb3b7bb01e, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    correctAns: tama
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: a093a349945275346835ab9b2c35e095, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: de752ec0e59453544a67db26c8044bb9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pantangi
+    TrueOrFalseOptions: []
+    correctAns: basal
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: b11760986a6834645a54f675ff8abd4f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: de752ec0e59453544a67db26c8044bb9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pantangi
+    TrueOrFalseOptions: []
+    correctAns: lansak
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 18013dcb58865c641a0cea8ecd087ea6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: de752ec0e59453544a67db26c8044bb9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pambalana
+    TrueOrFalseOptions: []
+    correctAns: basal
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 12fad859badab134ba05dcc99233a728, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: de752ec0e59453544a67db26c8044bb9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pambalana
+    TrueOrFalseOptions: []
+    correctAns: tahas
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 7af5a48ca7d79a74695ee818ee5b91ac, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: de752ec0e59453544a67db26c8044bb9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tahas
+    - basal
+    - lansak
+    - pambalana
+    TrueOrFalseOptions: []
+    correctAns: tahas

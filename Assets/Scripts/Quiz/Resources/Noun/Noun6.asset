@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun6
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: db06767efb8b3814ebc9f435a2501f3e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ee0804489de526d4aa43993f4ca66ffe, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - bag
+    - Ana
+    - baboy
+    - masaya
+    TrueOrFalseOptions: []
+    correctAns: bag
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 35c2574aa0da14f4d92bbfbaabd1f91a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c258f3d92482a8c488fe2b1fcf2d9618, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tubig
+    - kaarawan
+    - aso
+    - mesa
+    TrueOrFalseOptions: []
+    correctAns: aso
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: e485bfc29bf181d449c738a442a3ac09, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c2ebb852384881243819867800b158a3, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tita
+    - pusa
+    - kaarawan
+    - manong
+    TrueOrFalseOptions: []
+    correctAns: kaarawan
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 1a763b82dea772c41940ab72278318f2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 12c641a13764c3243ace598416000c61, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - damit
+    - kahoy
+    - Mara
+    - lapis
+    TrueOrFalseOptions: []
+    correctAns: Mara
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 1deaae4a509adef49bfc0495d2db3a5c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ace6771c0a501f24988c749246fb8103, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - kasiyahan
+    - papel
+    - hangin
+    - kami
+    TrueOrFalseOptions: []
+    correctAns: papel
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 4239a7a133c77294a944124b120ddb3f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6272d3bec06479541a8da62a0b8eff58, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Kalabaw
+    - Ibon
+    - Malunggay
+    - Manok
+    TrueOrFalseOptions: []
+    correctAns: Malunggay
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 913e5f9ae63518c41b55fedc955f4806, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce62a479f1809eb41aabb17bf2bfc238, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Lugar
+    - Tao
+    - Pangyayari
+    - Bagay
+    TrueOrFalseOptions: []
+    correctAns: Bagay
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: e91592850e2cc1244b12a5ffef49855a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4f0e05ad659a3a24192ebf72eb5bb0e5, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Konkreto
+    - Pantangi
+    - Pangalan
+    - Pambalana
+    TrueOrFalseOptions: []
+    correctAns: Pantangi
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 83e3e0607dd04374e97533fbd2a2c5a8, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c5f26afb541c8dd41af83b92b1c9ffc1, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Maliit
+    - Kulang
+    - Malaki
+    - Sakto
+    TrueOrFalseOptions: []
+    correctAns: Maliit
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: f60a8953f4c181b45917f6b6084305be, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 30c8bb8dbfdba1d4c893e110a4f1218b, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pangngalan
+    - Pandiwa
+    - Pang-uri
+    - Panghalip
+    TrueOrFalseOptions: []
+    correctAns: Pangngalan

@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Pronoun7
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 2918d4ccd180c514b89b1f14d2503309, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Sinu-sino
+    - Alin
+    - Ano
+    - Saan
+    TrueOrFalseOptions: []
+    correctAns: Sinu-sino
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 143f20da4cd5f3a4f975614bd9c267a0, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Kailan
+    - Kanino
+    - Sino
+    - Paano
+    TrueOrFalseOptions: []
+    correctAns: Kanino
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 2b2da2710338e5b46b7dd0e35e1a7e81, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Alin
+    - Ano
+    - Sino
+    - Saan
+    TrueOrFalseOptions: []
+    correctAns: Sino
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 6baff2f71888a054893ba12097e489c0, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Alin
+    - Sino
+    - Ano
+    - Paano
+    TrueOrFalseOptions: []
+    correctAns: Alin
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 9cc409565e86cc0468fb4e019a465acd, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Sino
+    - Anu-ano
+    - Sinu-sino
+    - Kailan
+    TrueOrFalseOptions: []
+    correctAns: Anu-ano
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 9dae4b89cd2a53045af2093484c9d4e6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Ano
+    - Bakit
+    - Paano
+    - Saan
+    TrueOrFalseOptions: []
+    correctAns: Ano
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: bfbe77213fe6cec4ebfdaab47d0eb3f6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Saan
+    - Kailan
+    - Ilan
+    - Bakit
+    TrueOrFalseOptions: []
+    correctAns: Saan
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 61a0288c992412c4981641999ed0de25, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Ano
+    - Paano
+    - Ilan
+    - Kailan
+    TrueOrFalseOptions: []
+    correctAns: Paano
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 566cfff09e7997641a410e740ea96a66, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Kailan
+    - Ano
+    - Bakit
+    - Sino
+    TrueOrFalseOptions: []
+    correctAns: Sino
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 338f7f8ab4d73274fb04c7fbc23626ba, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: aadf2414fc1e2374b9f8212428ea21b4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Ano
+    - Bakit
+    - Sino
+    - Sinu-sino
+    TrueOrFalseOptions: []
+    correctAns: Bakit

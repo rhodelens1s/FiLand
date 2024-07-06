@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Pronoun2
+  m_EditorClassIdentifier: 
+  categoryName: Pronoun2
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 449443796f55901469d8abc774b17fa5, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 758352b97b8427741a84339e4128cb82, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: una
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: a51b6ff1d1b68114893807c105666605, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 442cb824adf8b9743b1a52387974d89d, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: ikatlo
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 88d5bb074b8334d48a8a916accbb0f4d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 85e9171e51730624f9825aa7a0305bdf, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: una
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: a23f33d2d47450149889ba20b6984342, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ca06d169d25d71340a7bc768f04203b2, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: ikalawa
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 19899e8ee2dc1244bb2cba8397a86c6e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6e2cb307cd4e3e540b946004babd1aa2, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: una
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: e5fb1941c29c05543b2cfc43ade71e1e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 63931c304eda7d5469ea0371435aa819, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: ikatlo
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 7a938a7d3cdae17448a8f38805585582, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: bab74282a90976d4aa8c20e6287a92d9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: ikalawa
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 8513507c476af6142947a4d628ee2b58, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 1771f8ce84721924f85ca62a53a212de, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - una
+    - ikalawa
+    - ikatlo
+    - ikaapat
+    TrueOrFalseOptions: []
+    correctAns: ikatlo
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: de94179886513774f9d091ab69ed1ec5, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 01798ebbb2ace6943b86fa4b1d462952, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panao
+    - panaklaw
+    - pamatlig
+    - pananong
+    TrueOrFalseOptions: []
+    correctAns: panao
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 6c5355c1f32b63649b5334161bfeab5d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b35f13f3933827c48a76bfb99b535f61, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pangngalan
+    - Panghalip
+    - Pandiwa
+    - Pang-uri
+    TrueOrFalseOptions: []
+    correctAns: Panghalip

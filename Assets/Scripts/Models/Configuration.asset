@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecf79f76964c146408eace5a0b9b38a3, type: 3}
+  m_Name: Configuration
+  m_EditorClassIdentifier: 
+  Categories:
+  - CategoryName: Noun
+    QuestionList:
+    - Question: Ito ay mga salitang pantawag sa tao, bagay, pook, kalagayan, at pangyayari.
+      Answer1: Pangngalan
+      Answer2: l
+      Answer3: k
+      Answer4: p
+      CorrectAnswerIndex: 0
+    - Question: Ito ay tiyak o tanging ngalan ng tao, hayop, bagay, pook, kalagayan,
+        at pangyayari; nagsisimula sa malaking titik.
+      Answer1: OK
+      Answer2: S
+      Answer3: Pantangi
+      Answer4: F
+      CorrectAnswerIndex: 2
+    - Question: Ito ay karaniwan o balanang ngalan ng tao, tao, hayop, bagay, pook,
+        kalagayan, at pangyayari; nagsisimula sa maliit na titik.
+      Answer1: OKOKO
+      Answer2: OK
+      Answer3: Pambalana
+      Answer4: PO
+      CorrectAnswerIndex: 2
+    - Question: Alin sa mga pangngalan ang nakikita at nahahawakan?
+      Answer1: Kalayaan
+      Answer2: Bulaklak
+      Answer3: Kaligayahan
+      Answer4: Pagdiriwang
+      CorrectAnswerIndex: 1

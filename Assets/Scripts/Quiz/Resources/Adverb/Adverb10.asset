@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adverb10
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: fdf8654776e505948940dcb524488d8e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: bc7c8c407a5910a4b80d72d1f4ccb2ed, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - maglaro
+    - tatlong
+    - magkakapatid
+    - ibon
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: maglaro
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: f8daa801d0cef3143b8b29544b0e5b3a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 757953ecb0265e545a66b9f0e7b89229, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pangngalan
+    - pang-uri
+    - pang-abay
+    - pandiwa
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 24a6a20ad2049c14d885fb8052c819eb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: babe883c5338c244fb8c59b2be1a7488, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - maglaro
+    - magkakapatid
+    - madalas
+    - minsan
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: magkakapatid
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: c1b89d71450699846865b4823eb56e4d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 38dadb599179f444580c7c5f99fc475b, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pang-abay
+    - pang-uri
+    - pandiwa
+    - pangngalan
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pang-uri
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: c208bf90859187142aa24e904403fff7, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2539c778697f90f42876013fa7f0a15f, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - maglaro
+    - magkakapatid
+    - madalas
+    - minsan
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: magkakapatid
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 0f999203fa5728e46a047460995ad5ad, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 3b8d2eaea7d7f3940b8d606b1f763c0c, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pangngalan
+    - pang-uri
+    - pandiwa
+    - pang-abay
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pangngalan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 9b6b444eeaa788a428e09d174fd217aa, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e17170cced210ab4c937fa539120b515, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pang-uri
+    - pang-abay
+    - pandiwa
+    - pangngalan
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pang-uri
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: d421211fac2b4324fae8a7849fe9d6bc, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 7b7dda45b1005354d90a13943986c951, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pangngalan
+    - pang-uri
+    - pandiwa
+    - panghalip
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pandiwa
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 76c228ef33b43ab4c93c4bf50591a33f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 085a2ccad9cadcd47a5e111c9c755580, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pandiwa
+    - pang-uri
+    - pang-abay
+    - pangngalan
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 86c4d49e8be7f3e429549e3ea7c64242, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b31ded4af520d1b4f993eb8ef92885d2, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pandiwa
+    - pang-uri
+    - pang-abay
+    - panghalip
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pandiwa

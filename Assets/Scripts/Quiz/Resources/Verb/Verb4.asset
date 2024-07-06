@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Verb4
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: e1b5383ed04dd2940a6e1ab9d02d702b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 3daa3f58ee1213342a70f9c307aac093, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Inutusan
+    - Pinuntahan
+    - Kinuha
+    - Pumasok
+    TrueOrFalseOptions: []
+    correctAns: Inutusan
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 45fd1ebc9af0d0d4a87090eeae8f0215, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e62fc965663c8a947a5ef3d0f7bd9ce7, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - naglalaba
+    - nagwawalis
+    - naliligo
+    - nagsasampay
+    TrueOrFalseOptions: []
+    correctAns: nagwawalis
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 1c96a87a45d02874fbf9ad3e3d8fcfb6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6ec5cfad26892124aa9ebbb92b8921b1, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - naglalakad
+    - naglalangoy
+    - naglilipad
+    - gumagapang
+    TrueOrFalseOptions: []
+    correctAns: naglilipad
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: a854c2b45793ac540930229a43c90994, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 49521408f2083344397599e9a37de64f, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - kumakain
+    - nagdidilig
+    - umiinom
+    - nagsasayaw
+    TrueOrFalseOptions: []
+    correctAns: nagdidilig
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: fb603d69895c95e41ad7388e82d5b1d5, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b8397f97f50e21f489ca41d4cb06d927, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - kumanta
+    - kumakanta
+    - kakanta
+    - nagkanta
+    TrueOrFalseOptions: []
+    correctAns: kakanta
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 4be051910df5e3a4e85fd35a38505a6f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ec36223e51f494040902ab5786c31c53, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - naghahanda
+    - nahanda
+    - naghanda
+    - maghanda
+    TrueOrFalseOptions: []
+    correctAns: naghahanda
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: c1bf7f06a0d81f14e8669928bf6afede, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b1cf923acf14eb04387007f394c932d2, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Nanonood
+    - Nanood
+    - Manonood
+    - Manood
+    TrueOrFalseOptions: []
+    correctAns: Manonood
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 551ba415f8c43c64e960d5e31bff37ae, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 8b5d26faf54ff2e48acada7b687bbdeb, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - punta
+    - nagpunta
+    - pupunta
+    - nagpupunta
+    TrueOrFalseOptions: []
+    correctAns: pupunta
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 3740a3dd8e3c5b046a50a360d0adebb8, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ed1b054149d5c004b877023f6ff0ee27, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - nagdalaw
+    - magdalaw
+    - nagdadalaw
+    - dalaw
+    TrueOrFalseOptions: []
+    correctAns: nagdalaw
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: ca00644caa1b1e44eb1c686f1746e842, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 359f17810c4740a439168f85c5023fbe, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - natulog
+    - matutulog
+    - natutulog
+    - tulog
+    TrueOrFalseOptions: []
+    correctAns: matutulog

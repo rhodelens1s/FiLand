@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Pronoun1
+  m_EditorClassIdentifier: 
+  categoryName: Pronoun1
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 0c0c8ee2d5b90ea46a6d8f1447e618e2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 7cc622a39168ace4cb8d2069cd4cba6a, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pangngalan
+    - Panghalip
+    - Pang-uri
+    - Pandiwa
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: Panghalip
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 2a41b51e58791ce498fcf738a7004ba6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 71f3938bb69368d48ba963c1952ae312, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - kayo
+    - tayo
+    - akin
+    - sila
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: tayo
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: af64e3a40473fed4e83ecc9f327dade8, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 426633b3cdb778d4da08d8a26dee0973, type: 3}
+    questionType: 4
+    Picture: {fileID: 21300000, guid: fe00d3e464adb624989882c7b869535f, type: 3}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options:
+    - Sino ang kumain ng tsokolate?
+    - Kunin mo na ang mga aklat.
+    - Ang iba ay umalis na kahapon.
+    - Ito ang dalang bag ni Mike.
+    correctAns: Ang iba ay umalis na kahapon.
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 392b4df7b81674442a81f278bcdde112, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6f22463fd28cec24eb7e6f30a87ee486, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Ano
+    - Kailan
+    - Saan
+    - Magkano
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: Saan
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 2224e0f5115a5e447b79cb7b48fb2015, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 60752f5cb16b70d42aa2a2dca0395372, type: 3}
+    questionType: 4
+    Picture: {fileID: 21300000, guid: 6d7f1aaedf28b6b46afea9bf8b34f955, type: 3}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options:
+    - Kailan bumili ng bag si Addie?
+    - Magkano ang bag na binili ni Addie?
+    - Paano bumili ng bag si Addie?
+    - Ano ang binili ni Addie?
+    correctAns: Ano ang binili ni Addie?
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: f290385fb9955df428d2448912d23709, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b9d97cd7cc9ada444b3f5ea65f81fd03, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - mo
+    - na
+    - gamit
+    - nila
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: nila
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 119209cfe4d0cc24c9e1bb414ec1176a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d58f6f2a57a46f64f964c1b5110e2214, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - sino
+    - kailan
+    - ano
+    - bakit
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: ano
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: c6a0bcc451eb4b7469f5af567e66c6b2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 3591718effca15943b328fa5821e3f46, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panao
+    - panaklaw
+    - pamatlig
+    - pananong
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pamatlig
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: faab67370b8349949aaf055d8d4659fb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 1b2c3a860df2412419735de8e73a0723, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panao
+    - panaklaw
+    - pamatlig
+    - pananong
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: panaklaw
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 6c3414ca3e17a6d44a454e1202dd9096, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ff1483fe7970fb64daad97205aa4c369, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panao
+    - panaklaw
+    - pamatlig
+    - pananong
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pananong

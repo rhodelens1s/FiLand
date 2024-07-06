@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Verb1
+  m_EditorClassIdentifier: 
+  categoryName: Pronoun1
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 889bfe2cf4e4d6d48a6d44264e36a2f5, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6afce9ef09cc4c346bbfd9a3dabd8211, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    correctAns: Pandiwa
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: c4a353fa2a67f334787b86d99a01fd40, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0f3e01531bbb29642b1ddceac45c9acf, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Naganap
+    - Nagaganap
+    - Magaganap
+    - Natapos
+    TrueOrFalseOptions: []
+    correctAns: Naganap
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: ccd810a253604bf468508c15a341fd78, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d52d23dc48a4e3b4e9e686b1580d46af, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Naganap
+    - Nagaganap
+    - Magaganap
+    - Natapos
+    TrueOrFalseOptions: []
+    correctAns: Nagaganap
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 2bab8c4272e0f9949b660e2c0ac23338, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: fa7675c68ce7a7848bd659e927bd704f, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Naganap
+    - Nagaganap
+    - Magaganap
+    - Natapos
+    TrueOrFalseOptions: []
+    correctAns: Magaganap
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 5bb8c05972c069d4c8f7d884ca467801, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 16a771fd8316c2d4fa19b158850a41e7, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - sinuntok
+    - lapis
+    - siya
+    - ang
+    TrueOrFalseOptions: []
+    correctAns: sinuntok
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: fdfb556444a16f646bf5d3bac3e93dd1, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0594c69684090db4990df28113a94738, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    correctAns: mali
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: e5f6adb7f6c39064ba49bd5ad685ead7, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2d2155dea1418df4b9bd9ac34b981ed9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Naganap
+    - Nagaganap
+    - Magaganap
+    - Matapos
+    TrueOrFalseOptions: []
+    correctAns: Magaganap
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 9e926edce60ca3441a5c242a6f4623a3, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 7390cab93799e6c4a8350bb450b28659, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    correctAns: naganap
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: a128a274a0ba279458999b205df4268f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 5e425e8f6d2689a4699f839ea46942c5, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    correctAns: pandiwa
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 21d7cabc3f5890f4099c538796be1b73, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 709ce5d17ab76754a961e7fd65ac78cb, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - lumulukso
+    - naglalakad
+    - lumilipad
+    - lumalangoy
+    TrueOrFalseOptions: []
+    correctAns: lumilipad

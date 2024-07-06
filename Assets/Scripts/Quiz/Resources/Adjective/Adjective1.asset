@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adjective1
+  m_EditorClassIdentifier: 
+  categoryName: Pronoun1
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: ea4c7450954451040afa665d42549cfb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d3ca7925ca8486743a59e43cae2cbea4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pang-uri
+    - Panghalip
+    - Pangngalan
+    - Pang-angkop
+    TrueOrFalseOptions: []
+    correctAns: Pang-uri
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 060445f146324b044a3d69cab8f441e4, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d3115cac19e2d1e429eb7c2f84ac35ac, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - bahay
+    - puti
+    - Daniel
+    - pamilya
+    TrueOrFalseOptions: []
+    correctAns: puti
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 368a618b330e47846a6bd9df6ee1f1cf, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ae47a56c432c2ad40818e7bb3d3305f9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - malamig
+    - simoy
+    - hangin
+    - wala
+    TrueOrFalseOptions: []
+    correctAns: malamig
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: a04432e196fcbed44a6609ca3e2e1bf6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 1c6d39f101b75ab47b1b1c17e8ba2e78, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panlarawan
+    - pamilang
+    - pantangi
+    - paari
+    TrueOrFalseOptions: []
+    correctAns: pamilang
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: d0e804751e38d16418c48cc271fb3211, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: cc05320274df5b846a177a374fde8ac1, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panlarawan
+    - pamilang
+    - pantangi
+    - paari
+    TrueOrFalseOptions: []
+    correctAns: panlarawan
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 8bb8f45655bb2384b9ef1b3e3b6cb951, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ec554c24ac145ac419facdc0b65ce3f6, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - buo
+    - kalahati
+    - maganda
+    - tigdalawa
+    TrueOrFalseOptions: []
+    correctAns: maganda
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: db556607d550e4b4abe511371741c346, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d4d14e0778d6fc74d9df0c363accbc3c, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - simbahan
+    - mabait
+    - sapatos
+    - pumunta
+    TrueOrFalseOptions: []
+    correctAns: mabait
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: ef3eca0b2f4019f449c34a34c18849eb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6b084870def0ee34595905b558515586, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - panlarawan
+    - pamilang
+    correctAns: pamilang
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 19395c85132b6714c8b63af60cb6d69f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d0f90cd972f432b4a805ec3cb180be62, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - panlarawan
+    - pamilang
+    correctAns: panlarawan
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: b91d481aff6a3f94a8b9d2336f751e66, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 43d13724b0fdd3440a8d7e1f1696d1fc, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - panlarawan
+    - pamilang
+    correctAns: panlarawan

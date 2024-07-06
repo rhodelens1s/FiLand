@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Verb5
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: f3c1eb3642b5e524a90c7e2af0bf7a0a, type: 3}
+    MultipleChoiceOptions:
+    - naliligo
+    - naglalangoy
+    - nakahiga
+    - lumilipad
+    TrueOrFalseOptions: []
+    correctAns: naglalangoy
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: a8d0caef15632334a994916a4250710f, type: 3}
+    MultipleChoiceOptions:
+    - sumasayaw
+    - nagsasalita
+    - kumakanta
+    - nagtatawa
+    TrueOrFalseOptions: []
+    correctAns: kumakanta
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: d4ce3cfda04422445be58a07e4d51832, type: 3}
+    MultipleChoiceOptions:
+    - tumatakbo
+    - naglalakad
+    - umiiyak
+    - natutulog
+    TrueOrFalseOptions: []
+    correctAns: tumatakbo
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: a49f71435bdbb0142b4a7ea63315c702, type: 3}
+    MultipleChoiceOptions:
+    - nagyakap
+    - nagtatago
+    - umiiyak
+    - kumakanta
+    TrueOrFalseOptions: []
+    correctAns: umiiyak
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 1f3173ce859a32a4bb0ea3b693de636a, type: 3}
+    MultipleChoiceOptions:
+    - nag-iinom
+    - kumakain
+    - tumatawa
+    - nagbibigay
+    TrueOrFalseOptions: []
+    correctAns: kumakain
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 94f1ec621105bb94eadf55f9013a452a, type: 3}
+    MultipleChoiceOptions:
+    - nagtatakbo
+    - naglalakad
+    - nagsasayaw
+    - tumatalon
+    TrueOrFalseOptions: []
+    correctAns: naglalakad
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: a0989b1be08c27549bef72615a07872e, type: 3}
+    MultipleChoiceOptions:
+    - nagkakain
+    - naglalaba
+    - nagtutulog
+    - matutulog
+    TrueOrFalseOptions: []
+    correctAns: nagtutulog
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 2b7b20d5dd3ea82458cee111d49a7d48, type: 3}
+    MultipleChoiceOptions:
+    - nag-iisip
+    - nagsasalita
+    - nagbabasa
+    - naliligo
+    TrueOrFalseOptions: []
+    correctAns: nagbabasa
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 8759f4c80b3b6744ba8e617ba06061c7, type: 3}
+    MultipleChoiceOptions:
+    - nagsusulat
+    - nagtitingin
+    - nagtatawa
+    - nagsasalita
+    TrueOrFalseOptions: []
+    correctAns: nagsusulat
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 4c3f122b9078c334580a97a6cfd89cb2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 41816521c478e144f8465cead767ff0b, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 6c834705efe1841499ba461c1c853509, type: 3}
+    MultipleChoiceOptions:
+    - naglalaro
+    - nagtatapon
+    - tumatakbo
+    - nag-aayos
+    TrueOrFalseOptions: []
+    correctAns: naglalaro

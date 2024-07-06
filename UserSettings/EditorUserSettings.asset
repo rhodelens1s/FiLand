@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 51060504540c0a0b0b0d5a27137b0a44414e4b732f70773428704e67e1b66d3a
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 555401570700505e5b0f5e2313760d4410161e7b797d72352f2a4a30e6b8366c
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 0206015200060c085f080921487b0b4413151b72787d7e342e711f35b7e4603e
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 51015155500508025b0d592641270b44124e417e787e2431297e4d66b1b7323e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 52555654045751025f5c547416725d4442154b7a7b7f25362f281f61b0b6656c
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 0153005f04030b0f0c0a082314215d4442151d7d2d7f70367d2a1863e3b56c68
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 520257540756085855575f7045765b44414e4c2e292a76322c7e496be4b46669
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5750005f00535b0a0c5b597b13200b444515407f2f7070687e704d35e6b36c3d
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 560050535d54595854560f27492606444215402e7c7b25627b701e63b7e56c6e
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    UnityRemoteResolution:
+      value: 2d5e460b0459
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 4
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1

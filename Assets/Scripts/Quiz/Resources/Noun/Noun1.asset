@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun1
+  m_EditorClassIdentifier: 
+  categoryName: Noun1
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: d0cbf24f81fdfe2428bb631c78fc232c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 496efd7e8bede064287c5cb52deb670c, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pangngalan
+    - Panghalip
+    - Pang-uri
+    - Pandiwa
+    TrueOrFalseOptions: []
+    correctAns: Pangngalan
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 88c07eb775192e44cac8b73b2d19344f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 242d038151eb24740ba2561486e3cb8a, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pantangi
+    - Pangngalan
+    - Pang-uri
+    - Pandiwa
+    TrueOrFalseOptions: []
+    correctAns: Pantangi
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: a4791781a55d01e40ba2fff229d5858d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 555c8fe07e25c9146ac03314f0dbadfe, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pangngalan
+    - Pambalana
+    - Pang-uri
+    - Pandiwa
+    TrueOrFalseOptions: []
+    correctAns: Pambalana
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: a2edbfa9bf12a7b41969aca0b7f6371d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f5f1cd731c0127841a8768126d187a07, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - bulaklak
+    - kalayaan
+    - kaligayahan
+    - pagdiriwang
+    TrueOrFalseOptions: []
+    correctAns: bulaklak
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 81222770d36d9ee42b01986122158e77, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b07aeeed99278bb408f3a1f3c8911308, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - dyaryo
+    - lungsod
+    - pagmamahal
+    - upuan
+    TrueOrFalseOptions: []
+    correctAns: pagmamahal
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: df49db91ec3790f4988aca349e6b2321, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 07d9f0cb6bf154d4e992e277969122da, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Bb. Sol Mercado
+    - kumpol
+    - guro
+    - telebisyon
+    TrueOrFalseOptions: []
+    correctAns: kumpol
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: e974851cf220ee34daa72b062648a513, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d2f9d4351dc1f624a93baecf98ba55fd, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Valenzuela City
+    - ate
+    - paaralan
+    - aso
+    TrueOrFalseOptions: []
+    correctAns: Valenzuela City
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: bca163b5a0b851b4297987de99e71483, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: edd05b3ec1bcb764492f1ccd65a6f25f, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - G. Marvin
+    - Cecilia College
+    - lola
+    - Samsung
+    TrueOrFalseOptions: []
+    correctAns: lola
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 6b5d955b4747c16488f651cade51b51f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 91b3e0004e6f9ac4db2760f6fa6dedfa, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - guro
+    - sapatos
+    - bahay
+    - kalungkutan
+    TrueOrFalseOptions: []
+    correctAns: kalungkutan
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: becba1780bc642c4390ff02c18e0de0f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6b04451c2cb0da24ba7e3697355a5bfc, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Bagong Taon
+    - pangngalan
+    - grupo
+    - pamaypay
+    TrueOrFalseOptions: []
+    correctAns: grupo

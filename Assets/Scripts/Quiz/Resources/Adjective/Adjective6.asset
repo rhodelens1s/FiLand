@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adjective6
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 9a2b181b85f1026478f76863b74b7ae3, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 30625ab9cebf7294b84fcdfb5679f463, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - lantay
+    - pahambing
+    - pasukdol
+    - patulad
+    TrueOrFalseOptions: []
+    correctAns: lantay
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 0ad4d1c29b948b14aa852a05aa53796a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ee467f01852aa4340bd50b0a50d6d785, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - lantay
+    - pahambing
+    - pasukdol
+    - patulad
+    TrueOrFalseOptions: []
+    correctAns: pahambing
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: a60126e552b2c8b40a366381b38243a9, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f74e1155e78a2ac41bfe34bdd3aa78f6, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    correctAns: tama
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 688076946ac0a524dad1d9bb0e5ef2b5, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 94b466a3f9be02e4f9adc26cfe0a8370, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Malaki
+    - Mas malaki
+    - Pinakamalaki
+    - Laki
+    TrueOrFalseOptions: []
+    correctAns: Mas malaki
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 08e90a11ed93d844a851ad7d9a609205, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0bcbe992107bfa14eb58a7bd8361892e, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - magalang
+    - mas magalang
+    - pinakamagalang
+    - galang
+    TrueOrFalseOptions: []
+    correctAns: magalang
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 2a71bcfa6b0676f479c521bf7168c784, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f4f810f56ec99cd40bf12cb5035c64d6, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - masipag
+    - matalino
+    - Si
+    - Jose
+    TrueOrFalseOptions: []
+    correctAns: masipag
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 95a9f194c08334c4ab73fd194ae797a0, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ee24ba4c651b0c642bf1902a19e4e19d, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pandinig
+    - panlasa
+    - pang-amoy
+    - paningin
+    TrueOrFalseOptions: []
+    correctAns: panlasa
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: b92ee5dff1c5faa468fca4533165ee1d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b8759622c8424f743969026e96519bb8, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - kapangyarihang
+    - mas kapangyarihang
+    - mas makapangyarihan
+    - pinakamakapangyarihang
+    TrueOrFalseOptions: []
+    correctAns: pinakamakapangyarihang
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 3cac8c6740853ea4592bedbdbaa575b4, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: a3d7fcbf870057e47a4f93a323823d27, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - mesa
+    - parisukat
+    - Ako
+    - na
+    TrueOrFalseOptions: []
+    correctAns: parisukat
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: e3abcedd9fc121840aded59de9a78a54, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 3a918effc6e2aee4b9b84b2cef765c92, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - limang
+    - tumatahol
+    - lansangan
+    - aso
+    TrueOrFalseOptions: []
+    correctAns: limang

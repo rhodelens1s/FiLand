@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adjective4
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: d47360441a0ef8b4dab98083a24a2475, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 24fd188a7a37b4f48a62d2bf2964450d, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pang-uri
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: afba045d83143be4a8c28b2260eb1b40, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: fb831373ba6f2d94da8bad81c5f8efd1, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: mabango
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: d47360441a0ef8b4dab98083a24a2475, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: fd8df9b694247074fa8e499f279eaea3, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: karagatan
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: ee5c71937de434d4b998118e9bad74fb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6e96a89860d59ee488dacf70195de650, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: mataas
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 6ad565d5fcbfaed49af7b85f7aca70b7, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 21f9065cdc03cc342ba4f0a67c3b3eff, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: malawak
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 431b360e39a1b5c428ea4bd50a17a60a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 51d77536f3cfbfc4cab10f49c723f03c, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Panlarawan
+    - Pamilang
+    MultipleChoiceV2Options: []
+    correctAns: Panlarawan
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 1774044ac679ebe43ae8cdf0a36818ab, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 807e592fbd684904ab698b8bfde5871a, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Panlarawan
+    - Pamilang
+    MultipleChoiceV2Options: []
+    correctAns: Pamilang
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 4f874c21fc880bc47b4de986c61df4e6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 8970cb886a6dd69408d67467791e80aa, type: 3}
+    questionType: 4
+    Picture: {fileID: 21300000, guid: 81314667909dc4543b00ce0b5caa498e, type: 3}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options:
+    - mabilis na sasakyan
+    - mahinang boses
+    - mabagal na pag-ikot
+    - magandang bulaklak
+    correctAns: mabagal na pag-ikot
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 68d55c941aefe7e4d9b4c1d4069a81b7, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0c7b8549461a3e34e859421f8011bbff, type: 3}
+    questionType: 4
+    Picture: {fileID: 21300000, guid: 720b4f572ff773f43aa990b7809a94e0, type: 3}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options:
+    - limang baso
+    - kalahating papel
+    - isang dosenang itlog
+    - bakal na tubo
+    correctAns: bakal na tubo
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 5aaeb391b50826248911d0576cdd973c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 013de551ed6891b4fa738662f9709f4d, type: 3}
+    questionType: 4
+    Picture: {fileID: 21300000, guid: 25352b81e3ef98d46b52054919499c20, type: 3}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options:
+    - pangalawang pagkakataon
+    - maingay na mamimili
+    - mahabang buhok
+    - pansit Lucban
+    correctAns: pangalawang pagkakataon

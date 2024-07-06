@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Pronoun4
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 367a68d7e2869d140b33573b2a2d2b55, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pananong
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 907de362985cbdc46b17090a134e811a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: panao
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 7412618f01fba134b9f4349c01d32f53, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: panaklaw
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 060aecfcda5b3bb44aec840f991683a2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: panaklaw
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 6a5eef9e654919648a71840158e4549f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: Sila
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 9d422226439251e4db9218da347274a9, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pamatlig
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: c3feddf8ec14ac54882d6de31a7a1ac2, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pananong
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 976e75581c767a14fb67b1c989767c73, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: panao
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 93de6347f033cad4a8600f154b7843d8, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: panaklaw
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: c28eccfb19ac1bc4cbc09915a6d0cd8b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e541dfaea97213645a90cf7c245191a9, type: 3}
+    questionType: 2
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: pamatlig

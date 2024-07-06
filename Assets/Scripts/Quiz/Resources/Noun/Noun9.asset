@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun9
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 5b9baee9bdd7fb046a8c336f1a1e13fd, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 777c26761ea705b499a558dcb264361b, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - ay
+    - kuya
+    - nagpakita
+    - kasipagan
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: kasipagan
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: a6105571e48dd044bb48cf33781e0966, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 31429922bab36ca4698907da29a8e35d, type: 3}
+    questionType: 4
+    Picture: {fileID: 21300000, guid: 4e004e112ac71f04c906537eed1d6c77, type: 3}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options:
+    - Simuno at Panaguri
+    - Pantangi at Pambalana
+    - Pangungusap at Pasalaysay
+    - Sanhi at Bunga
+    correctAns: Pantangi at Pambalana
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: edcfc0bb68cd1f24db347c0edeb7acb3, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: a50c11b70e057e74fb109da393caad67, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 46a5b8ae657293647b8158337a7ef335, type: 3}
+    MultipleChoiceOptions:
+    - Safeguard
+    - lapis
+    - sabon
+    - sapatos
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: sabon
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 57c5f944fb0b44d4cb5c506ac3aacedf, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0e8d99199c775d44489220d5a6ff97bc, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    MultipleChoiceV2Options: []
+    correctAns: mali
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 1d9ed1ab51f4b4343b0ec42d71d1d6b9, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 019cd6a6a9958ae428bee7271e2cec17, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - isa
+    - dalawa
+    - tatlo
+    - apat
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: dalawa
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: f74bf22b9bd449841b79e56274d2abdf, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4e6a7cce30a2ac8418e59c478eab9003, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tumugon
+    - bali-baliktad
+    - dilim
+    - presyo
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: tumugon
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: b2a57e0ac415a1e44b1a94c2dd0e9939, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0ca39ee0e3151e946bab8380c011c6e9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - puno
+    - tabing-dagat
+    - kagubatan
+    - ilog
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: tabing-dagat
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 23b0c0838dfe23a4e8120ae69c40d131, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 66b737c4aa80bf34a90f0b1582598b23, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - sama-sama
+    - halaman
+    - hapag-kainan
+    - ina
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: sama-sama
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 69fd1f5b5c36f9c4099778e489655681, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: a1e9469a9a4111445811e4d0b0933b6e, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - ari-arian
+    - araw
+    - karagatan
+    - taong-gubat
+    TrueOrFalseOptions: []
+    MultipleChoiceV2Options: []
+    correctAns: araw
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 15e9d23577e9d7941b3afd07b1352e3e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c555906d3b7e7f042b1eb34d1335f4f3, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    MultipleChoiceV2Options: []
+    correctAns: tama

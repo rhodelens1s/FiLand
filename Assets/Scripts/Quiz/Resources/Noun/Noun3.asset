@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun3
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 22829a1580a5d604e83ae23f39b5bd6b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: a263f9c9b28165841b6656784a4af0a4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - bulaklak
+    - Sampaguita
+    - napakabango
+    - talagang
+    TrueOrFalseOptions: []
+    correctAns: bulaklak
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: a0928f4f9c4fb7644a48f13ee774df22, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 659fb49c5665ef74699798b219cca763, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - sapatos
+    - Adidas
+    - kaibigan
+    - bumili
+    TrueOrFalseOptions: []
+    correctAns: Adidas
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 65ff0ded112666c4dba78e9c6d094dc3, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: eb19e3433a197314d9cb2eb48c29aa4c, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tindera
+    - Luneta Park
+    - nagkalat
+    - sa
+    TrueOrFalseOptions: []
+    correctAns: tindera
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: a803c3ece34d3914c9337efc5506ec46, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 7f945e98babd89a4a92cb5d2d839c97e, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Ginoong Alfred
+    - guro
+    - prutas
+    - kaibigan
+    TrueOrFalseOptions: []
+    correctAns: Ginoong Alfred
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: b8f0ad323c61f1e46a86aafd742bd9ec, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f77f9c24201ffe443bd81c852598725f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pantangi
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: bc5fa8ec11e205a4d8e60cbb23949bc9, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ee74720b8528a5f47a240431c56b915a, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pambalana
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 5d65196875a90eb4b96444f3a7a77bba, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4ab6d30c26ea7544eb7106ad7c7a5335, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - dahon
+    - lumilipad
+    - ang
+    - ay
+    TrueOrFalseOptions: []
+    correctAns: dahon
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 4db934ecd1792724ebd3ce6ff2444ddc, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 1d185dca651aca44e9c399b798863830, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - bumili
+    - bago
+    - notebook
+    - Nenita
+    TrueOrFalseOptions: []
+    correctAns: Nenita
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 1460e5eb927d13c49be29ee2c4b9d130, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 5f3ec10d9a4fe7d4a95e04f38d7a1eb8, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Joan
+    - Nakatulog
+    - aklat
+    - nagbabasa
+    TrueOrFalseOptions: []
+    correctAns: aklat
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: ebb71e5d392b2834e9f5b51d39fda2e6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c5931a976c90bf047af2689e2f97cb31, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Rose
+    - kanila
+    - naghihintay
+    - bahay
+    TrueOrFalseOptions: []
+    correctAns: Rose

@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun7
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 84c9e7f12cda5e14bb5d4ea2dfcacefb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b08326c4dd59b9e4c9d645a1a410cb25, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - bata
+    - aso
+    - naglaro
+    - guro
+    TrueOrFalseOptions: []
+    correctAns: naglaro
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: a6991c2b5cf79944683d89acc5e0f690, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 575e6fb2280e84a4da194faf5fcfd7ad, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Aida
+    - tindera
+    - mag-aaral
+    - pusa
+    TrueOrFalseOptions: []
+    correctAns: Aida
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 5cbb60a3f7d1a2645b845510b9da1ef1, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 49a7eba232a42254893b9ec9465018b9, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Bb. Marquez
+    - Sterling
+    - Bench
+    - lapis
+    TrueOrFalseOptions: []
+    correctAns: lapis
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 466b4170a535b2e47bd70ec73bd88a20, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 66a448f71d585ad4fbfa838ad01f7833, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tindera
+    - guro
+    - mesa
+    - manggagawa
+    TrueOrFalseOptions: []
+    correctAns: mesa
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: b53798284d89fe64aa89c78b384f8a8a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d37086236c689cd4fa7295c2b4fea492, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pagdiriwang
+    - damit
+    - kalungkutan
+    - pagkakaisa
+    TrueOrFalseOptions: []
+    correctAns: damit
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 5f7bc2c68f0eeec48bbf73ea544eaa25, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e9e1ace43b956aa498107cb11656903b, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - tama
+    - mali
+    correctAns: tama
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: f69a41ed5de1f1c4289b76433a743a0c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 57104429a64d28e4390023c03b197268, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - kapayapaan
+    - kaluluwa
+    - medalya
+    - digmaan
+    TrueOrFalseOptions: []
+    correctAns: medalya
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 56f6627d3a745c34c8ea71d308715d8f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: a1691dbf24c4e0046bd67781d713f542, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - maylapi
+    - inuulit
+    - tambalan
+    - payak
+    TrueOrFalseOptions: []
+    correctAns: payak
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 2b21d05167b12974dad869b85fac7b80, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 396d511fdb2890e4db7747510f740528, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - payak
+    - inuulit
+    - maylapi
+    - tambalan
+    TrueOrFalseOptions: []
+    correctAns: inuulit
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 90ed15756ace8354e86b56e02212b86b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 959e21f0c48400f4597985d58d0c6d8d, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - tambalan
+    - maylapi
+    - inuulit
+    - payak
+    TrueOrFalseOptions: []
+    correctAns: tambalan

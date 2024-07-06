@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Verb7
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 5e9e0fa45e619344484061a5dd23e4ef, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 929f2459c5d24f94b9acd5a9ca98155d, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pumunta
+    - Pumupunta
+    - Pupunta
+    - Punta
+    TrueOrFalseOptions: []
+    correctAns: Pupunta
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 50a260d0577253c448753db84de16012, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: d3078be3f1eecba4190e48afafb1200e, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - dumating
+    - dumarating
+    - darating
+    - dating
+    TrueOrFalseOptions: []
+    correctAns: darating
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 47eb0f435f14c6243b0539cfbfa94f4d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 8b13e93afdca8dc429840392b32a9e65, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Namitas
+    - Mamimitas
+    - Namitas
+    - Pitas
+    TrueOrFalseOptions: []
+    correctAns: Mamimitas
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 73e8b7c1355a6124bb224b473f1f7b8e, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: bfe0f5d64e359884b85b2137aca09be7, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Nag-ayos
+    - Mag-aayos
+    - Nag-aayos
+    - Ayos
+    TrueOrFalseOptions: []
+    correctAns: Mag-aayos
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: eeaf0625f453f5844bffddc0fbf77762, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 9adb91415b0f5824b88890c15f199cf8, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Bibili
+    - Bumili
+    - Mabili
+    - Bili
+    TrueOrFalseOptions: []
+    correctAns: Bibili
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 1d93be673f069e143b9a8bf0f83e4777, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 020a98a7f95e0c2479f3c21ea596f94b, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Nagwalis
+    - Nagwawalis
+    - Magwawalis
+    - Walis
+    TrueOrFalseOptions: []
+    correctAns: Nagwalis
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 60007054e09fc2a40b77b4234a82c7ac, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 676bcd1002e28a94b8c887be9cc7e192, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Bumili
+    - Bumibili
+    - Bibili
+    - Mabili
+    TrueOrFalseOptions: []
+    correctAns: Bumili
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: a9483d2837b646347a98091e7cf5c92a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c580b321452c3c84ba8d18a5ea13448d, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Sumakay
+    - Sumasakay
+    - Sasakay
+    - Sakay
+    TrueOrFalseOptions: []
+    correctAns: Sasakay
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 65cacfd89c1be8a4083cffeafea7482c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 6392a37f4b0b2df49b802d5e8b9b6fc7, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Nagsulat
+    - Nagbabasa
+    - Naglalaro
+    - Nagkakanta
+    TrueOrFalseOptions: []
+    correctAns: Nagbabasa
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: baa47d0acd7bbb24e92b4ae5e06758c3, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ade7ff1a17b8f4d498e86af1c2f4d4ac, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Naglinis
+    - Naglaba
+    - Naghugas
+    - Nagkain
+    TrueOrFalseOptions: []
+    correctAns: Naghugas

@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adverb1
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 840a67c39a90d8f4199cfcd1df2b3faa, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0a2fd188723b7de4dbb5b83a1644f75c, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Panlunan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 0b2b46af9bfe2494987d22c94d79d79d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b7607e266b175e44bbfd9fe35397607c, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pandiwa
+    - Panghalip
+    - Pangngalan
+    - Pang-abay
+    TrueOrFalseOptions: []
+    correctAns: Pang-abay
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 14ff154214df5b0499366adc3fd140df, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 3126b2d84931c5a4a8855a0c89ae2a29, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamaraan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: e718a57c8a0860f41b5de9de6e73d44c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 8f1ebe4a777800245aa4558754c6014a, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamanahon
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 61f1e3a2119421c4b98060bfaa1fcb09, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: b7c41374d286cd34f999826acd644ea3, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamanahon
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 444eab3e85c0bbf48ae13f196a08de41, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: bcd61747e9dcec840a17111ddb448f97, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamaraan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 88b10f3d896c4e94eb50ae64b570244f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ecfd9f010ff983346b19b248ea6ccfdd, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Panlunan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 24cf844bb0d98ad4e995cdff93a9303c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c186c2d11df151b4d8fc125f052b79f7, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamaraan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: f8264ee625df88d47990f98ff6235381, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: da951d24392df794a87b4b67e1f186e5, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamaraan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: a9ebab0f97e8c754ca92400951d5773a, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4f2252892c757134d9d963756e5a1e4b, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pamanahon
+    - Panlunan
+    - Pananggi
+    - Pamaraan
+    TrueOrFalseOptions: []
+    correctAns: Pamanahon

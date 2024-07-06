@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adjective9
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 1badf57487a51424f84a98ad88a61d44, type: 3}
+    MultipleChoiceOptions:
+    - maitim
+    - malamig
+    - mahusay
+    - mainit
+    TrueOrFalseOptions: []
+    correctAns: mainit
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 6a8cd1557e7809845983141bdd83df2a, type: 3}
+    MultipleChoiceOptions:
+    - mataas
+    - maputi
+    - masunurin
+    - magaling
+    TrueOrFalseOptions: []
+    correctAns: mataas
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 5918ae75af5813c4ab408705ee462a1a, type: 3}
+    MultipleChoiceOptions:
+    - mabait
+    - malansa
+    - makulit
+    - maarte
+    TrueOrFalseOptions: []
+    correctAns: malansa
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: ed3177bb3ccbc8d4ca6446054f91d840, type: 3}
+    MultipleChoiceOptions:
+    - marami
+    - malaki
+    - maliit
+    - mabango
+    TrueOrFalseOptions: []
+    correctAns: maliit
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: f568a8d7a30f03248a4dcccd28df900f, type: 3}
+    MultipleChoiceOptions:
+    - isa
+    - marami
+    - dalawa
+    - mainit
+    TrueOrFalseOptions: []
+    correctAns: isa
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: be0079cbaed84ef429bd6893d72b4426, type: 3}
+    MultipleChoiceOptions:
+    - malamig
+    - masipag
+    - masunurin
+    - matapang
+    TrueOrFalseOptions: []
+    correctAns: malamig
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: f817ee480aa4a084ebef31f54243ccbd, type: 3}
+    MultipleChoiceOptions:
+    - malambot
+    - matigas
+    - mayaman
+    - mabait
+    TrueOrFalseOptions: []
+    correctAns: matigas
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: ce48fed3f2ac0e442858b7902736397a, type: 3}
+    MultipleChoiceOptions:
+    - masunurin
+    - maganda
+    - matigas
+    - masama
+    TrueOrFalseOptions: []
+    correctAns: maganda
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 3
+    Picture: {fileID: 21300000, guid: 56668796ea343664f9045a5f0b0cf208, type: 3}
+    MultipleChoiceOptions:
+    - pula
+    - berde
+    - kahel
+    - asul
+    TrueOrFalseOptions: []
+    correctAns: pula
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 08f8c63cb876a3746b06857a92a53843, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 2dae916fe51d92a4593c1b7393aa127d, type: 3}
+    questionType: 0
+    Picture: {fileID: 21300000, guid: 46497d0451ad7ca429e3c694a6223ce0, type: 3}
+    MultipleChoiceOptions:
+    - masarap
+    - magaling
+    - matangkad
+    - parisukat
+    TrueOrFalseOptions: []
+    correctAns: masarap

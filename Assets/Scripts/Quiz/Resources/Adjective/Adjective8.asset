@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adjective8
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: df15a415875d16c4b80ace151ce496dc, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 801f16ff95c10054eb50984b5fa99790, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - pamilya
+    - Reyes
+    - anim
+    - anak
+    TrueOrFalseOptions: []
+    correctAns: anim
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 00be144ad555f1b4f81b6abdf4e55413, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 970657a22e5952448813dcef0a866993, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - panganay
+    - labing-walo
+    - taon
+    - gulang
+    TrueOrFalseOptions: []
+    correctAns: labing-walo
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 94ddc8cb6c47a3b4bb3f7bcbe193ac1d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: bcf6364646b72854c8d8609bb91644c4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Binigyan
+    - ako
+    - kalahati
+    - keyk
+    TrueOrFalseOptions: []
+    correctAns: kalahati
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 376ccc0b7ed416f49800284f8e8dae20, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 8afece71d3007814888a81243c45a4d4, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - ikatlo
+    - puwesto
+    - paligsahan
+    - nakuha
+    TrueOrFalseOptions: []
+    correctAns: ikatlo
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: 3c0b2ab3d3122ba429c660d8d8f22134, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: eef98126fb1f29e4fbf59335f83c4dbb, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - nabili
+    - payong
+    - halaga
+    - isang-daan
+    TrueOrFalseOptions: []
+    correctAns: isang-daan
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: 14fb9066ceb9b2b42bd5bb7267d62370, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 346956dd6688b9847aff883a111f9a5a, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Yumi
+    - pangalawa
+    - anak
+    - Mang Nena
+    TrueOrFalseOptions: []
+    correctAns: pangalawa
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: 1dc2375c71a562342a12a5ee991990cc, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: c4c65e30900f3764399fd16d696839dd, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - ikaapat
+    - bahagi
+    - pizza
+    - hinati
+    TrueOrFalseOptions: []
+    correctAns: ikaapat
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 867c8783a2a63b34594e8eb3f82cec9d, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f73842d15c846c04f9aac5efa82a4848, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - dadalhin
+    - simbahan
+    - bulaklak
+    - siyam
+    TrueOrFalseOptions: []
+    correctAns: siyam
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: ff2ec471415bcbe40803f8d75314ec61, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ba43e4b2459d07c4dbf7aca6328be18b, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Max
+    - una
+    - pet store
+    - aso
+    TrueOrFalseOptions: []
+    correctAns: una
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 95a267ba52f9e984fb66cf3525c1ef9f, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 0029a546c3cf13e419e987afe857db9f, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - ikalima
+    - baitang
+    - Justin
+    - nasa
+    TrueOrFalseOptions: []
+    correctAns: ikalima

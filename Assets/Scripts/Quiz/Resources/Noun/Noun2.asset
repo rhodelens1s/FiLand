@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Noun2
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 1
+    questionImage: {fileID: 21300000, guid: fd8cd0abb87f1d94e877ac1215d548e7, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 05f3bde6cb8687c4789f7319a1c5ee90, type: 3}
+    questionType: 0
+    Picture: {fileID: 0}
+    MultipleChoiceOptions:
+    - Pantangi
+    - Pambalana
+    - Pangngalan
+    - Pangkaraniwan
+    TrueOrFalseOptions: []
+    correctAns: Pambalana
+  - questionInfo: 2
+    questionImage: {fileID: 21300000, guid: 9d5837958570682468dd819af01480a6, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 05f3bde6cb8687c4789f7319a1c5ee90, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pambalana
+    - Pantangi
+    correctAns: Pantangi
+  - questionInfo: 3
+    questionImage: {fileID: 21300000, guid: 53812e03f1f8aa741964f581ae671b19, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 05f3bde6cb8687c4789f7319a1c5ee90, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pambalana
+  - questionInfo: 4
+    questionImage: {fileID: 21300000, guid: 78c89ed77c79a8c429f452a8d6d52a86, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 05f3bde6cb8687c4789f7319a1c5ee90, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pantangi
+  - questionInfo: 5
+    questionImage: {fileID: 21300000, guid: ae15b6c70dd94f942b13d9a2a0a265bb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce47f1b063b966b49ace879e0dd1963f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pambalana
+    - Pantangi
+    correctAns: Pantangi
+  - questionInfo: 6
+    questionImage: {fileID: 21300000, guid: ed87856b14d97c5499092458862c1ad9, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce47f1b063b966b49ace879e0dd1963f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pambalana
+  - questionInfo: 7
+    questionImage: {fileID: 21300000, guid: e2de78eb6d6b2724ab2a2084a44a06cd, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce47f1b063b966b49ace879e0dd1963f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pambalana
+  - questionInfo: 8
+    questionImage: {fileID: 21300000, guid: 324e0d80aaa34ca4fa86902420c7fca9, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce47f1b063b966b49ace879e0dd1963f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pantangi
+  - questionInfo: 9
+    questionImage: {fileID: 21300000, guid: 041696734b634604282db617e64a11df, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce47f1b063b966b49ace879e0dd1963f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pambalana
+  - questionInfo: 10
+    questionImage: {fileID: 21300000, guid: 512e539374c68494d8fadda741137c51, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: ce47f1b063b966b49ace879e0dd1963f, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - Pantangi
+    - Pambalana
+    correctAns: Pambalana

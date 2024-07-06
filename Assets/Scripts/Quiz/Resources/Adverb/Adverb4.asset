@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a52459d3e5eee44afb26773bde4dc7, type: 3}
+  m_Name: Adverb4
+  m_EditorClassIdentifier: 
+  categoryName: 
+  questions:
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: e1ce13ef0927d474191ef4efbaf31c7c, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4f74dfdfa225c6049a93db69546fa55c, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - anak
+    - mahinahon
+    correctAns: mahinahon
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 1061a69158f74cb4d9eaab98e530a53b, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: f2fe21fa6cc1ade47bb9e92f99d374da, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - maingat
+    - bumaba
+    correctAns: maingat
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: d55c4202fbb24064a9b8f4b1e96e2305, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 71e37e4883f4faa4f93e921b4ef41ee7, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - marahan
+    - sugat
+    correctAns: marahan
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: c89a6f5215a242542a1cbb59c4baee86, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 5405d77a55d6fe54a904a2ef7307103c, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - masusi
+    - tinitigan
+    correctAns: masusi
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: a2d7a161972d67942a06ff7dd5d705ee, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: a0bb5f878ed94e7478dec6cb0ce0a0f6, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - mahimbing
+    - sanggol
+    correctAns: mahimbing
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: d66e804ddf47eed40a58ce550e14a746, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 122db4c21106c9a42a49bcc0a306e9da, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - malakas
+    - habagat
+    correctAns: malakas
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: ffebefab67ccc71468360ebe62cf4808, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 399b1dff01198df43b572f13b5c8a476, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - maingat
+    - binuklat
+    correctAns: maingat
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 313c2943411150e44a5b5d3e1bda51fb, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: e7d4dbbf705e92149a78b0202cf9205b, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - patakbo
+    - bunso
+    correctAns: patakbo
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: 8ae3bd1c45193c443a05db0f9b63a836, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 54824534892c558498ee07dcc99baf23, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - masaya
+    - nag-awitan
+    correctAns: masaya
+  - questionInfo: 
+    questionImage: {fileID: 21300000, guid: d229c6b099b60c24ea489d3b338781ba, type: 3}
+    QuestionVoiceOver: {fileID: 8300000, guid: 4c9f0410917e4ce428aab3c66f8f4bd0, type: 3}
+    questionType: 1
+    Picture: {fileID: 0}
+    MultipleChoiceOptions: []
+    TrueOrFalseOptions:
+    - maamo
+    - sumunod
+    correctAns: maamo
